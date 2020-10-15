@@ -16,7 +16,7 @@ Members
 ------
 1. Laurianne Muller: Technician / Assistant engineer
 1. Marine Moindrot: Technician / Engineer
-1. Angèle Coutant: Master Student (Bioinformatics)
+1. Angèle Coutant: PhD Student (Bioinformatics)
 
 Alumni
 ------
